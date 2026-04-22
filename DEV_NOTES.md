@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tested build on clean environment
 - Verified API endpoint response schema
 - Added healthcheck endpoint stub
+
+## 2026-04-22
+- Added CONTRIBUTING.md stub
